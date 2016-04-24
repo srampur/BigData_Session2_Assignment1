@@ -1,0 +1,87 @@
+1. Concept used in Hadoop is:
+a. Divide and conquer 
+b. Map and Reduce 
+c. On demand data 
+d. None of these
+
+Ans: b.
+
+2. Hadoop divides data into:
+a. Blocks 
+b. Parts 
+c. Chunks 
+d. All the above
+
+Ans: a.
+
+3. Each node results are stored in:
+a. HDFS
+b. Localdisk 
+c. Cloud storage 
+d. None of these
+
+Ans: a.
+
+4. Which of these can be related to Hadoop 1.x?
+a. Job Tracker, Task Tracker, Namenode & Datanode
+b. Job process, Task process, Name cluster
+c. Data cluster, Task cluster, Name node
+d. Job process, Task process, Name node & Data node
+
+Ans: a.
+
+12. Who is the Master in Hadoop?
+a. Namenode 
+b. Datanode 
+c. Every node 
+d. All the above
+
+Ans: a.
+
+5. Who are the job trackers in Hadoop?
+a. Slaves 
+b. Masters 
+c. Both of these 
+d. None of these
+
+Ans: b.
+
+6. Which node stores the metadata?
+a. NameNode 
+b. Check point Node 
+c. Secondary NameNode 
+d. Backup Node
+
+Ans: a.
+
+7. Which is not a valid Daemon in Hadoop?
+a. NameNode
+b. Secondary NameNode
+c. Checkpoint Node
+d. DataNode
+
+Ans: c.
+
+8. By default, memory size of Data nodes is limited to?
+a. 32MB 
+b. 64MB 
+c. 128MB 
+d. b & c
+
+Ans: b.
+
+9. Slave layer in Hadoop Architecture contains:
+a. Name Node & Resource Manger
+b. Data nodes & Node Manager
+c. Name Node & Node Manager
+d. Data nodes & Resource Manager
+
+Ans: b.
+
+10. Data is replicated among:
+a. Name nodes 
+b. Data nodes 
+c. Both of these 
+d. None of these
+
+Ans: b.
